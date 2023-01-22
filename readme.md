@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para auxiliar no controle dos hábitos do dia a dia.
 
+- [Visite o projeto on-line](https://andreloren.github.io/NLWSetup_E/)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
